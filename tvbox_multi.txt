@@ -145,11 +145,12 @@
             "name": "豆瓣热播297条线路"
         },
 		{
-            "url": "https://8249.kstore.space/快乐仓库/CS/CSYS.json",
-            "name": "拽姐"
+            "url": "https://gitee.com/xmbjmjk/ck/raw/master/ck.json",
+            "name": "拾光单仓接口"
         },
 		{
-            "url": "https://8249.kstore.space/快乐仓库/CS/CSYS.json",
-            "name": "拽姐"
-        },		
-		
+            "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
+            "name": "拾光单线接口"
+        }
+	]
+}
